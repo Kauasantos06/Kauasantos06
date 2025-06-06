@@ -29,4 +29,8 @@
   </a>
 </div>
 
-![Snake animation](https://github.com/kauasantos06/kauasantos06/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kauasantos06/Kauasantos06/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://raw.githubusercontent.com/Kauasantos06/Kauasantos06/output/github-contribution-grid-snake.svg)" />
+  <img alt="github-snake" src="[github-snake.svg](https://raw.githubusercontent.com/Kauasantos06/Kauasantos06/output/github-contribution-grid-snake.svg)" />
+</picture>
