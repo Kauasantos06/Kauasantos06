@@ -3,8 +3,7 @@
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
 - 🖥️ Atualmente estudando Python
 - 🌐 Aberto para Networking
-
-  <br>
+<br>
 
 
 <p align="left">
