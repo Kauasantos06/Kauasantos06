@@ -2,14 +2,14 @@
 
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
 - 🖥️ Atualmente estudando Python
-- 🌐 Aberto para Networking
+- 🌐 Aberto para Networking!
 <br>
-
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauasantos06&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauasantos06&layout=compact&theme=tokyonight"/>
 </p>
+
 
 <p align="left">
   <img alt="Kauã-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
