@@ -1,16 +1,32 @@
-## Hi there 👋
+## 😄Olá, sou o Kauã, estudante de programação e sejam bem-vindos ao meu GitHub!
 
-<!--
-**Kauasantos06/Kauasantos06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Cursando Análise e Desenvolvimento de Sistemas
+- 🖥️ Atualmente estudando Python
+- 🌐 Aberto para Networking
 
-Here are some ideas to get you started:
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kauasantos06&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauasantos06&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="left">
+  <img alt="Kauã-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="right" alt="Matheus-gif" src="https://media.discordapp.net/attachments/782794257085366274/1340049925135798354/sdijfs.gif?ex=67b0f23f&is=67afa0bf&hm=ce5f06a3e8c12d571b91107cc78ce0381d620a10becd93304b5c2011493305ee&=&width=179&height=179">
+</p>
+
+ ##
+
+<div>
+  <a href="mailto:kauasantos0612@gmail.com" target="_blank">
+    <img height="30" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+
+  <a href="https://www.linkedin.com/in/kau%C3%A3-santos06/" target="_blank">
+    <img height="30" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
+
+![Snake animation](https://github.com/kauasantos06/kauasantos06/blob/output/github-contribution-grid-snake.svg)
