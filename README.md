@@ -1,7 +1,7 @@
 ## 😄Olá, sou o Kauã, estudante de programação e sejam bem-vindos ao meu GitHub!
 
 - 📖 Cursando Análise e Desenvolvimento de Sistemas
-- 🖥️ Atualmente estudando Python
+- 🖥️ Atualmente estudando JavaScript, CSS e HTML
 - 🌐 Aberto para Networking!
 <br>
 
@@ -12,7 +12,8 @@
 
 <p align="left">
   <img alt="Kauã-Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Matheus-gif" src="https://media.discordapp.net/attachments/782794257085366274/1340049925135798354/sdijfs.gif?ex=67b0f23f&is=67afa0bf&hm=ce5f06a3e8c12d571b91107cc78ce0381d620a10becd93304b5c2011493305ee&=&width=179&height=179">
+  <img alt="Kauã-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="right" alt="Kaua-gif" src="https://media.discordapp.net/attachments/782794257085366274/1340049925135798354/sdijfs.gif?ex=67b0f23f&is=67afa0bf&hm=ce5f06a3e8c12d571b91107cc78ce0381d620a10becd93304b5c2011493305ee&=&width=179&height=179">
 </p>
 
  ##
